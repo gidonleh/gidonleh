@@ -16,7 +16,7 @@
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://drive.google.com/file/d/1WjwsB2abAsi7DP3WSrvI5paoUn1gXOE4/view/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://drive.google.com/file/d/1WjwsB2abAsi7DP3WSrvI5paoUn1gXOE4/view" />
 </a>
 <i class="cib-codepen"></i>
 <br />
