@@ -32,7 +32,7 @@ I'm an eager learner, always looking to expand my knowledge, especially in the f
 - 🌱 I’m currently expending my knowledge, learning Full Stack Development 🚀.
 - 👯 I’m actively looking for my first exciting job.
 - 📫 How to reach me: csgadileh@gmail.com | [LinkedIn](https://www.linkedin.com/in/gadileh/) | [Twitter](https://twitter.com/csgadileh) | [Portfolio](Soon to be up)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
+- 💻 I specialize in React and Javascript mainly. Feel free to take a look at my projects in Github or Codepen.
 - 💬 Feel free to talk to me! I'm available for anything.
 - ⚡ Funny drinking game for web devs: <br />
 (1) Think of a noun. <br />
