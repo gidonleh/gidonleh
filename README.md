@@ -15,8 +15,8 @@
 <a href="https://www.facebook.com/gadile/" target="_blank">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://drive.google.com/file/d/1WjwsB2abAsi7DP3WSrvI5paoUn1gXOE4/view/">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://drive.google.com/file/d/1WjwsB2abAsi7DP3WSrvI5paoUn1gXOE4/view" />
+<a href="https://codepen.io/gadi_lehmann">
+  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Codepen_%28CoreUI_Icons_v1.0.0%29.svg" />
 </a>
 <i class="cib-codepen"></i>
 <br />
