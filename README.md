@@ -18,25 +18,26 @@
 <a href="https://codepen.io/gadi_lehmann">
   <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Codepen_%28CoreUI_Icons_v1.0.0%29.svg" />
 </a>
-<i class="cib-codepen"></i>
+
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+My name is Gadi and I'm in the process of pursuing a Bachelor's degree 🎓 in Computer Science in the Open University Of Israel🏛. Just now finished a professional course in Front End development, now looking for my entry-level job.  
+I'm an eager learner, always looking to expand my knowledge, especially in the fields of programming🤓. I can't stop learning by myself from the never-ending sources found in the net, loving the way I feel when I am able to solve real life problems ✨. 
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://iampavangandhi.github.io/)
+- 🔭 I’m currently working on React.js, Redux, JavaScript, Bootstrap, CSS etc 💻.
+- 🌱 I’m currently expending my knowledge, learning Full Stack Development 🚀.
+- 👯 I’m actively looking for my first exciting job.
+- 📫 How to reach me: csgadileh@gmail.com | [LinkedIn](https://www.linkedin.com/in/gadileh/) | [Twitter](https://twitter.com/csgadileh) | [Portfolio](Soon to be up)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
-- 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:pavangandhi100@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
+- 💬 Feel free to talk to me! I'm available for anything.
+- ⚡ Funny drinking game for web devs:
+(1) Think of a noun.
+(2) Google "<noun>.js"
+(3) if there's a library with that name - drink 👨‍💻🤣.
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true)
-
-⭐️ From [iampavangandhi](https://github.com/iampavangandhi)
