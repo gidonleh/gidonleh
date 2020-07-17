@@ -34,10 +34,10 @@ I'm an eager learner, always looking to expand my knowledge, especially in the f
 - 📫 How to reach me: csgadileh@gmail.com | [LinkedIn](https://www.linkedin.com/in/gadileh/) | [Twitter](https://twitter.com/csgadileh) | [Portfolio](Soon to be up)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Feel free to talk to me! I'm available for anything.
-- ⚡ Funny drinking game for web devs:
-(1) Think of a noun.
-(2) Google "<noun>.js"
-(3) if there's a library with that name - drink 👨‍💻🤣.
+- ⚡ Funny drinking game for web devs: <br />
+(1) Think of a noun. <br />
+(2) Google "<noun>.js" <br />
+(3) if there's a library with that name - drink 👨‍💻🤣. <br />
 
 ### Show some ❤️ by starring some of the repositories!
 
