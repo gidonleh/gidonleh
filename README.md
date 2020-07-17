@@ -39,5 +39,4 @@ I'm an eager learner, always looking to expand my knowledge, especially in the f
 (2) Google "<noun>.js" <br />
 (3) if there's a library with that name - drink 👨‍💻🤣. <br />
 
-### Show some ❤️ by starring some of the repositories!
 
