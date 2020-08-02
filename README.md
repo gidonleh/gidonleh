@@ -26,9 +26,9 @@
 My name is Gadi and I'm in the process of pursuing a Bachelor's degree 🎓 in Computer Science in the Open University Of Israel🏛. Just now finished a professional course in Front End development, now looking for my entry-level job.  
 I'm an eager learner, always looking to expand my knowledge, especially in the fields of programming🤓. I can't stop learning by myself from the never-ending sources found in the net, loving the way I feel when I am able to solve real life problems ✨. 
 
-### Come visit my website!💻
+
 <a href="https://gidonleh.github.io/portfolio/" target="_blank">
-  <img align="left" alt="button gif" wid="30px" src="https://media.giphy.com/media/cl7sAq7d8IrihKOaW1/giphy.gif" />
+ ### Come visit my website!💻
 </a>
 
 
