@@ -27,7 +27,7 @@ My name is Gadi and I'm in the process of pursuing a Bachelor's degree 🎓 in C
 I'm an eager learner, always looking to expand my knowledge, especially in the fields of programming🤓. I can't stop learning by myself from the never-ending sources found in the net, loving the way I feel when I am able to solve real life problems ✨. 
 
 
-<a href="https://gidonleh.github.io/portfolio/" target="_blank">
+<a href="https://gidonleh.github.io/" target="_blank">
  ### Come visit my website!💻
 </a>
 
