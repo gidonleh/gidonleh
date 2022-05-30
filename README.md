@@ -1,5 +1,4 @@
 ## Hello World! <img src="https://media.giphy.com/media/dyk1xmJbZMXj0aK0q3/giphy.gif" width="60px"></h2>
-<style>
 
 <a style="color: white;" href="https://twitter.com/csgadileh" target="_blank">
   <img align="left" alt="Gadi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
